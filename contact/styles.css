@@ -1,4 +1,3 @@
-/* General styles for the body and text elements */
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -23,7 +22,6 @@ p, li {
     color: #666;
 }
 
-/* Styling links for better visibility */
 a {
     color: #61dafb;
     text-decoration: none;
